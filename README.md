@@ -35,7 +35,7 @@ Edit the .env file in the root directory with your database credentials:
 DB_CONNECTION=mysql
 DB_HOST=127.0.0.1
 PDB_PORT=[3306]
-DB_DATABASE=laravel_user_api
+DB_DATABASE=nearby_friends_app
 DB_USERNAME=root
 DB_PASSWORD=
 ```
